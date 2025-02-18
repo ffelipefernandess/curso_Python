@@ -11,10 +11,10 @@ dados_conceitos = { #dicionario com as informações da caixa dropdown
 'javascript' : {'variaveis':8, 'condicionais':7, 'loops':4, 'poo':3, 'funções':8}
 }
 cores_map=dict(
-    java='red',
+    java='blue',
     python='green',
     sql='yellow',
-    golang='blue',
+    golang='red',
     javascript='pink'
 )
 app = dash.Dash(__name__)
